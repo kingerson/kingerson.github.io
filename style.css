@@ -374,6 +374,7 @@ img {
 .tag--cloud { color: var(--tag-cloud); background: var(--tag-cloud-bg); }
 .tag--devops { color: var(--tag-devops); background: var(--tag-devops-bg); }
 .tag--arch { color: var(--tag-arch); background: var(--tag-arch-bg); }
+.tag--scraping { color: #34d399; background: rgba(52, 211, 153, 0.12); }
 
 /* --- Architecture --- */
 .architecture {
